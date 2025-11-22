@@ -1,0 +1,6 @@
+This is my version control history
+
+Version Control is basically a system to trace back the previous versions of a file.
+It is also helpful to track and manage modifications made by all users. 
+It can revert to older versions in case any error is encountered. 
+It also allows multiple users to collaborate on a single project and merge their contributions together. 
